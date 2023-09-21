@@ -1,10 +1,6 @@
 # EncryptoAuth | Documentation
 
-This is the documentation for the EncryptoAuth Library/Service.
-
 ---
-
-# AuthLibrary Documentation
 
 ## Overview
 
